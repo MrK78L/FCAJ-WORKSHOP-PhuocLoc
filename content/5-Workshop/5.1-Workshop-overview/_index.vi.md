@@ -10,11 +10,7 @@ pre: " <b> 5.1. </b> "
 
 CloudOffice gồm frontend React/Vite và backend serverless. Khách hàng tìm văn phòng, gửi yêu cầu thuê và đặt lịch; quản trị viên quản lý dữ liệu, hợp đồng, hình ảnh và báo cáo.
 
-{{% notice info %}}
-### Vị trí chèn hình kiến trúc workshop
-
-`![Kiến trúc triển khai CloudOffice](/images/5-Workshop/5.1-Workshop-overview/cloudoffice-architecture.png)`
-{{% /notice %}}
+![Kiến trúc triển khai CloudOffice](/images/5-Workshop/5.1-Workshop-overview/cloudoffice-architecture.jpg)
 
 ## Thành phần chính
 

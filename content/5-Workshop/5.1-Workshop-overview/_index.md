@@ -10,13 +10,7 @@ pre: " <b> 5.1. </b> "
 
 CloudOffice combines a React/Vite frontend with an AWS serverless backend for customer and office-rental administration workflows.
 
-{{% notice info %}}
-### Workshop architecture image placeholder
-
-Save the diagram at `static/images/5-Workshop/5.1-Workshop-overview/cloudoffice-architecture.png`, then replace this notice with:
-
-`![CloudOffice deployment architecture](/images/5-Workshop/5.1-Workshop-overview/cloudoffice-architecture.png)`
-{{% /notice %}}
+![CloudOffice deployment architecture](/images/5-Workshop/5.1-Workshop-overview/cloudoffice-architecture.jpg)
 
 - S3 and CloudFront host and distribute the frontend.
 - API Gateway exposes the API; Cognito authenticates users.
