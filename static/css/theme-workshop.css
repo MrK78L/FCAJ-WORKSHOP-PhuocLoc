@@ -139,6 +139,20 @@ a:hover {
   color: var(--MENU-SECTIONS-LINK-HOVER-color);
 }
 
+#sidebar .select-style select {
+  color: var(--MENU-SECTIONS-LINK-color);
+}
+
+#sidebar .select-style select:hover,
+#sidebar .select-style select:focus {
+  color: var(--MENU-SECTIONS-LINK-HOVER-color);
+}
+
+#sidebar .select-style select option {
+  color: #1c222a;
+  background-color: #fff;
+}
+
 #sidebar ul li.active > a {
   background: var(--MENU-SECTION-ACTIVE-CATEGORY-BG-color);
   color: var(--MENU-SECTION-ACTIVE-CATEGORY-color) !important;
